@@ -1,2 +1,8 @@
 #ignore this file only
 file1.txt
+
+
+/testfile.txt
+src/
+
+build/*.txt
